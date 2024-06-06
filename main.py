@@ -105,8 +105,6 @@ def main():
                 print(f"Available arguments: \n{actions_string}")
             case _:
                 print("Unknown keyword argument")
-    else:
-        print("Exit...")
 
 
 if __name__ == '__main__':
